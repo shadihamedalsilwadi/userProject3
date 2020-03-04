@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="btn_ok">Ok</string>
+    <string name="rdb_op1">option 1</string>
+    <string name="rdb_op2">Option 2</string>
+    <string name="swt_first">Option 3</string>
+</resources>
